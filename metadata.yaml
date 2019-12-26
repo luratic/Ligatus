@@ -1,2 +1,6 @@
 versions:
+  #Latest
+  - sha: 3f3df28ada8abe2bc76dc3695c7177a9cd21002f
+    changeNotes: fix naming
+  # Older versions
   - sha: 99e19cb809b338bb034b10530d82f3e7b35af22a
