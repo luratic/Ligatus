@@ -1,8 +1,10 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/ligatus/"
 versions:
-  #Latest
+  # Latest version
+  - sha: a1b75c337451fdd368382b117fe87db547219522
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: 3f3df28ada8abe2bc76dc3695c7177a9cd21002f
     changeNotes: fix naming
-  # Older versions
   - sha: 99e19cb809b338bb034b10530d82f3e7b35af22a
